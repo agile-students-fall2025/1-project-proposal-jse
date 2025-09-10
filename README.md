@@ -20,11 +20,11 @@ The primary end-users are:
 From the end-user’s perspective, **StrideAI** will function as a personal AI running coach, featuring “virtual versions” of professional athletes whose public training data, interviews, and routines inform the coaching engine.  
 
 Key features: 
-- Virtual AI Coaches:** Users can pick from AI personas modeled after pro athletes (e.g., a marathoner, sprinter, or middle-distance runner).  
-- Personalized Training Plans:** The app adapts elite-level workouts to the user’s fitness, weekly mileage, and race goals.  
-- Dynamic Adjustments:** Plans evolve based on performance data (pace, heart rate, RPE, GPS), making it feel like the athlete-coach is giving real-time feedback.  
-- Motivational Interactions:** Users can “chat” with their AI coach for encouragement, recovery advice, and training rationale.  
-- Progress Tracking:** Visual dashboards to show weekly mileage, VO₂ max trends, injury risk, and upcoming races.  
+- Virtual AI Coaches: Users can pick from AI personas modeled after pro athletes (e.g., a marathoner, sprinter, or middle-distance runner).  
+- Personalized Training Plans: The app adapts elite-level workouts to the user’s fitness, weekly mileage, and race goals.  
+- Dynamic Adjustments: Plans evolve based on performance data (pace, heart rate, RPE, GPS), making it feel like the athlete-coach is giving real-time feedback.  
+- Motivational Interactions: Users can “chat” with their AI coach for encouragement, recovery advice, and training rationale.  
+- Progress Tracking: Visual dashboards to show weekly mileage, VO₂ max trends, injury risk, and upcoming races.  
 
 # Scope  
 This project requires integrating multiple components, ranging from AI persona generation, training plan logic, user profile management, and a clean mobile/web interface.  
